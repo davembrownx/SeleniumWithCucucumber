@@ -10,7 +10,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <webdrivermanager.version>4.3.1</webdrivermanager.version>
+        <webdrivermanager.version>5.9.3</webdrivermanager.version>
     </properties>
     <build>
         <plugins>
@@ -123,18 +123,18 @@
 
 
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
-	<!--
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
             <version>${webdrivermanager.version}</version>
         </dependency>
-	-->
+	<!--
 	<dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-chrome-driver</artifactId>
             <version>4.25.0</version>
         </dependency>
+	-->
 
         <!-- https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting -->
         <dependency>
