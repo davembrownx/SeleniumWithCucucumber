@@ -67,7 +67,7 @@
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
-            <version>6.9.1</version>
+            <version>${cucumber.version}</version>
         </dependency>
 
 
