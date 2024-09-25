@@ -143,14 +143,14 @@
         <dependency>
             <groupId>net.masterthought</groupId>
             <artifactId>cucumber-reporting</artifactId>
-            <version>5.5.2</version>
+            <version>5.8.2</version>
         </dependency>
 
 
         <dependency>
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
-            <version>5.0.7</version>
+            <version>5.1.2</version>
         </dependency>
     </dependencies>
 </project>
